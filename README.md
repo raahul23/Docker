@@ -24,8 +24,7 @@ marine-animal-detection/
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/marine-animal-detection.git
-cd marine-animal-detection
+
 2. Install Dependencies
 Make sure you have Python 3.8+ and install required packages:
 
@@ -98,7 +97,7 @@ Show summary statistics (count of animals detected).
 GPU acceleration (if supported on deployment server).
 
 👤 Author
-Mincy Rachel Jacob
-Register Number: RA2211026050050
+Raahul U
+Register Number: RA2211026050051
 SRM Institute of Science and Technology
 
